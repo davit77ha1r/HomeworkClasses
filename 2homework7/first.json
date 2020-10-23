@@ -1,0 +1,10 @@
+{"items":[
+    {
+        "name":"Davide",
+        "surname":"Harutyunyan",
+        "age":18,
+        "height": 1.6,
+        "married": false  
+    }
+]
+}
