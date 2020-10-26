@@ -1,0 +1,6 @@
+items:
+- age: 18
+  height: 1.6
+  married: false
+  name: Davide
+  surname: Harutyunyan
