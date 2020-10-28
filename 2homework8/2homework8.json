@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "python_image",
+      "url": "https://business.blogthinkbig.com/wp-content/uploads/sites/2/2019/04/Pythonlogo.jpg"
+    },
+    {
+      "name": "multithreading_image",
+      "url": "https://d33wubrfki0l68.cloudfront.net/068a31a66053ff64f78184d971196829cf927fba/c892f/wp-content/uploads/2017/07/multithreading.png"
+    },
+    {
+      "name": "image_of_python_comics",
+      "url": "https://imgs.xkcd.com/comics/marriage.png"
+    },
+    {
+      "name": "Soldiers_Artsakh",
+      "url": "https://armenpress.am/static/news/b/2020/10/1032989.jpg"
+    },
+    {
+      "name": "Rezonans",
+      "url": "https://southfront.org/wp-content/uploads/2020/09/Rezonans-NE.jpg"
+    },
+    {
+      "name": "Programer_cat",
+      "url": "https://64.media.tumblr.com/36cc586bca16ab4a5628b99e334710cb/tumblr_inline_pk7z9yCVo11t4ws7m_500.jpg"
+    },
+    {
+      "name": "Iskander",
+      "url": "https://www.defenseworld.net/uploads//news/big/iskander-_1491921502.jpg"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://dowpie.com/wp-content/uploads/2019/11/create-new-Gmail-Account.png"
+    },
+    {
+      "name": "Arm_gun",
+      "url": "https://news.am/img/news/61/01/63/default.jpg"
+    },
+    {
+      "name": "Parlament_House",
+      "url": "https://news.am/img/news/61/02/13/default.jpg"
+    }
+  ]
+}
